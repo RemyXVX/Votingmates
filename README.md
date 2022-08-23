@@ -27,4 +27,4 @@ https://remyxvx.github.io/Votingmates/voting.html
 
 ## License
 * _MIT_
-Copyright (c) _8/14/22_ _Remy Flores_
+Copyright (c) _8/22/22_ _Remy Flores_
