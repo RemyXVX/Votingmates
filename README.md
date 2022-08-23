@@ -15,7 +15,7 @@
 _Created a webpage so we can apply Javascript. We ask the user to input their age so it will prompt one of two pages._
 
 ## Link
-_
+https://remyxvx.github.io/Votingmates/voting.html
 
 ## Setup/Installation Requirements
 * _Copy/clone repo on your device_
